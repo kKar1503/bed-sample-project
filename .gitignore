@@ -1,0 +1,11 @@
+# Please please please never commit your node modules into git,
+# you will hate yourself so much... it's like the heaviest thing
+# in the whole of universe.
+# Node modules
+node_modules
+
+# By right you should be adding the .env here, because it contains
+# sensitive informations. But in this case, I keep it so you guys
+# can reference it.
+# Env
+# .env
